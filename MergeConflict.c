@@ -4,6 +4,8 @@ if(nothing="something")
 }
 else
 {
-	printf("You shut up and fck off");
+<<<<<<< HEAD
+	printf("you shut up and fck off");
+>>>>>>> 38f72a42171afdb9ec01f07415e526aba4359bc3
 }
 
