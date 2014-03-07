@@ -14,4 +14,4 @@ Wow.. I'm now changing file from Windows :)
 
 Changed my config file
 
-Need a merge conflict
+Need a merge conflict :P
