@@ -4,6 +4,6 @@ if(nothing="something")
 }
 else
 {
-	printf("fck off");
+	printf("you fck off");
 }
 
