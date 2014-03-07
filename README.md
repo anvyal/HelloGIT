@@ -13,3 +13,5 @@ But I'm pretty sure you guys get confused !!
 Wow.. I'm now changing file from Windows :)
 
 Changed my config file
+
+Need a merge conflict :P
